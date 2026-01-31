@@ -18,4 +18,8 @@ tree as the source file is edited. Tree-sitter aims to be:
 - [Rust binding](https://github.com/tree-sitter/tree-sitter/blob/master/lib/binding_rust)
 - [WASM binding](https://github.com/tree-sitter/tree-sitter/blob/master/lib/binding_web)
 - [Command-line interface](https://github.com/tree-sitter/tree-sitter/blob/master/crates/cli)
-- [Community-maintained grammars](https://github.com/tree-sitter-grammars)
+- [Community-maintained grammars](https://github.com/tree-sitter-Request Id: a8dd2e8e-1a70-4a2e-902e-abfcd3eb0700
+Correlation Id: 4c57f2a1-b040-1000-78ff-9f33b1cbb8d5
+Timestamp: 2026-01-31T09:00:32Z
+Message: AADSTS50020: User account 'dinhhauduong0@gmail.com' from identity provider 'live.com' does not exist in tenant 'Microsoft' and cannot access the application '00000003-0000-0ff1-ce00-000000000000'(Office 365 SharePoint Online) in that tenant. The account needs to be added as an external user in the tenant first. Sign out and sign in again with a different Azure Active Directory user account.
+
